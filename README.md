@@ -21,12 +21,12 @@ Your `.env` file should look like this:
 ```
 # Azure OpenAI
 OPENAI_API_TYPE="azure"
-OPENAI_API_BASE="https://demo-alfredo-openai.openai.azure.com/"
+OPENAI_API_BASE="https://demo-ts-openai.openai.azure.com/"
 OPENAI_API_KEY="0asd8924yl87asljhsd823lkjahsdf234"
 OPENAI_API_VERSION="2023-07-01-preview"
 
 # Azure Cognitive Search
-SEARCH_SERVICE_NAME="https://demo-alfredo.search.windows.net"
+SEARCH_SERVICE_NAME="https://demo-ts.search.windows.net"
 SEARCH_API_KEY="zlkjhasd876lkjh234978sg098srtiuy"
 SEARCH_INDEX_NAME="demo-index"
 ```
